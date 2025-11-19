@@ -3,4 +3,4 @@ This is my second challenge and solution for QR code component challenge from fr
 
 ## To Do 
 
-- [] Make this responsive
+- [ ] Make this responsive
